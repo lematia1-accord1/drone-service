@@ -1,3 +1,7 @@
+# Build:
+[![EgimaBen](https://circleci.com/gh/egimaben/drone-service/tree/main.svg?style=svg)](https://circleci.com/gh/egimaben/drone-service/?branch=main)
+
+
 [[_TOC_]]
 
 ---
