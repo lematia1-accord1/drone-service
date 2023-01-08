@@ -1,6 +1,6 @@
 
 from flask import Flask, request, jsonify
-from flask_marshmallow import Marshmallow
+#from flask_marshmallow import Marshmallow
 
 app = Flask(__name__)
 @app.route("/drone-service", methods = ["GET"])
@@ -9,4 +9,3 @@ def get_message_from_drone():
 
 if __name__ == "__main__":
     app.run(debug=True)
-    
